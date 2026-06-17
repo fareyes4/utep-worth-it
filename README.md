@@ -1,4 +1,4 @@
-# Is College Worth It Here?
+# Is UTEP Worth It?
 
 ## What I built
 A simple web tool for first-generation UTEP students trying to figure 
